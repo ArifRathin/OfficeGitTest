@@ -1,1 +1,3 @@
 Today is thursday. I am feeling fine.
+
+Tomorrow is weekend.
